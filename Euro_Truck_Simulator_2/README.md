@@ -42,3 +42,20 @@ Priority
 Більш точне знаходження.
 
 
+Environment
+
+Windows 11 Home
+
+Версія білду 1.58.1.2
+
+На новій версії також є ця проблема
+
+
+<img width="1755" height="918" alt="image" src="https://github.com/user-attachments/assets/ead2f9f1-4582-4f45-aafd-2a26f03f575a" />
+
+<img width="1753" height="920" alt="image" src="https://github.com/user-attachments/assets/7c0edd8f-9734-4fb9-ab43-3c986b14c693" />
+
+А також як доїжджати є ще 1 та ж проблема
+
+
+
